@@ -1,0 +1,18 @@
+{
+  "name": "pc1/active-records",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    },
+    "files": [
+      "app/helpers/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Guilherme Machado",
+      "email": "gui_lherme00k@hotmail.com"
+    }
+  ],
+  "require": {}
+}
